@@ -1,4 +1,4 @@
-# JavaScript Visualization Challenge: Belly Button Bioiversity
+# JavaScript Visualization Challenge: Belly Button Biodiversity
 
 *JavaScript Visualization Challenge Assignment for Data Science Bootcamp, Module 14*
 
